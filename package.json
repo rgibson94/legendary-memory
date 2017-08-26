@@ -1,0 +1,23 @@
+{
+  "name": "legendary-memory",
+  "version": "1.0.0",
+  "description": "Node.js Authentication utility",
+  "main": "app.js",
+  "dependencies":{
+      "node-sodium": "*",
+      "jsonwebtoken": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgibson94/legendary-memory.git"
+  },
+  "author": "rgibson94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgibson94/legendary-memory/issues"
+  },
+  "homepage": "https://github.com/rgibson94/legendary-memory#readme"
+}
