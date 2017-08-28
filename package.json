@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Node.js Authentication utility",
   "main": "app.js",
-  "dependencies":{
-      "node-sodium": "*",
-      "jsonwebtoken": "*"
+  "dependencies": {
+    "sodium": "*",
+    "jsonwebtoken": "*",
+    "express": "*",
+    "morgan": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
